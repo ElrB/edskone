@@ -1,0 +1,146 @@
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.colored-section {
+  background-color: #07428F;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+.heading {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 2.0rem;
+  line-height: 1.5;
+}
+
+.hori-rule {
+  border-width: 0;
+}
+
+.app-img {
+  border-radius: 50px;
+}
+
+.navbar {
+  padding:0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.app-img {
+  margin-left: 20%;
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+.second-box {
+  padding: 8% 0;
+}
+
+#features {
+  padding: 7% 15%;
+  position: relative;
+}
+
+.features-heading-text {
+  font-weight: bold;
+  font-size: 2.0rem;
+  line-height: 1.5;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 3%;
+}
+
+.icon {
+  color: #87A2C3;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #07428F;
+}
+
+#team {
+  background-color: #87A2C3;
+  text-align: center;
+}
+
+
+.team-img {
+  width: 15%;
+  height: 15%;
+  border-radius: 100%;
+}
+
+.team-title {
+  font-size: 1.5rem;
+  padding-top: 2%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.bottom-hori {
+  width: 15%;
+}
+
+#cta {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.cta-heading {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+#footer {
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+@media (max-width: 1050px) {
+
+  #title {
+    text-align: center;
+  }
+  .app-img {
+    position: static;
+    transform: rotate(0);
+  }
+}
