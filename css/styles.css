@@ -152,5 +152,10 @@ p {
     transform: rotate(0);
     margin-left: 0;
   }
+  
+  #cta {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
 
 }
