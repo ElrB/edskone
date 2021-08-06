@@ -142,6 +142,11 @@ p {
     padding-right: 0;
   }
   
+  .container-fluid {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  
   .app-img {
     position: static;
     transform: rotate(0);
