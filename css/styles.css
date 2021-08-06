@@ -151,4 +151,8 @@ p {
     border-radius: 10px;
     width: 35%;
   }
+  
+  .body {
+    margin: 2% 2% 2% 2%;
+  }
 }
