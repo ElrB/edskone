@@ -137,21 +137,13 @@ p {
 @media (max-width: 1050px) {
 
   #title {
-    text-align: center;
-    padding-left: 2%;
-    padding-right: 2%; 
+    text-align: center; 
   }
+  
   .app-img {
     position: static;
     transform: rotate(0);
     margin-left: 0;
-  }
-  
-  .btn-lg {
-    padding: 40px 80px;
-    font-size: 80px;
-    border-radius: 10px;
-    width: 35%;
   }
 
 }
