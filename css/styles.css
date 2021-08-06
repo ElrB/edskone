@@ -138,6 +138,8 @@ p {
 
   #title {
     text-align: center;
+    padding-left: 2%;
+    padding-right: 2%; 
   }
   .app-img {
     position: static;
@@ -151,8 +153,5 @@ p {
     border-radius: 10px;
     width: 35%;
   }
-  
-  .body {
-    padding: 2% 2% 2% 2%;
-  }
+
 }
