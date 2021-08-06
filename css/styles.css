@@ -153,6 +153,10 @@ p {
     margin-left: 0;
   }
   
+  #features {
+    padding: 7% 3%; 
+  }
+  
   #cta {
     padding-left: 3%;
     padding-right: 3%;
