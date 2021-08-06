@@ -137,7 +137,9 @@ p {
 @media (max-width: 1050px) {
 
   #title {
-    text-align: center; 
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
   }
   
   .app-img {
